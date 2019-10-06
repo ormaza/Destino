@@ -54,7 +54,7 @@ Este projeto foi criado com a tecnologia [CoreUI](https://coreui.io/angular/) (D
 
 ## Repositório
 
-O respositório original desse projeto se encontra no * [Gitlab](https://gitlab.com/imd-dev/pacote-de-viagens)
+O respositório original desse projeto se encontra no [Gitlab](https://gitlab.com/imd-dev/pacote-de-viagens)
 
 ## Contato
 
