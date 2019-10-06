@@ -13,6 +13,7 @@
   * [Pré-requisitos](#pré-requisitos)
   * [Instalação](#instalação)
 * [Licença](#licença)
+* [Repositório](#repositório)
 * [Contato](#contato)
 
 ## Configuração
@@ -50,6 +51,10 @@ npm start
 ## Licença
 
 Este projeto foi criado com a tecnologia [CoreUI](https://coreui.io/angular/) (Documentação). Mais informações sobre sua licença clique [aqui](https://github.com/coreui/coreui-free-angular-admin-template/blob/master/LICENSE).
+
+## Repositório
+
+O respositório original desse projeto se encontra no * [Gitlab](https://gitlab.com/imd-dev/pacote-de-viagens)
 
 ## Contato
 
